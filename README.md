@@ -1,16 +1,13 @@
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Jhonatan Medeiros</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JhonMeddev&color=yellow" alt="Profile views" /> </p>
-
-
-
+<h3 align="right">Não pense que é capaz. Saiba que é  :)</h3>
+<img align="right" alt="Jhon-pic" height="180" style="border-radius:50px;" src="https://i.giphy.com/media/sULKEgDMX8LcI/giphy.webp">
 <div style="display: inline_block"><br>
 
-  - Não pense que é capaz. Saiba que é.
-  
-  <img align="right" alt="Jhon-pic" height="200" style="border-radius:99px;" src="https://i.giphy.com/media/sULKEgDMX8LcI/giphy.webp">
-  
 </div>
+
+
 
 <br><br>
 
