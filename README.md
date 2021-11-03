@@ -8,7 +8,7 @@
 
   - Não pense que é capaz. Saiba que é.
   
-  <img align="right" alt="Jhon-pic" height="150" style="border-radius:50px;" src="https://i.giphy.com/media/sULKEgDMX8LcI/giphy.webp">
+  <img align="right" alt="Jhon-pic" height="250" style="border-radius:50px;" src="https://i.giphy.com/media/sULKEgDMX8LcI/giphy.webp">
   
 </div>
 
