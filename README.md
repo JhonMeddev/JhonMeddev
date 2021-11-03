@@ -1,4 +1,4 @@
-<img align="right" height="590em" src=""/>
+
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Jhonatan Medeiros</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JhonMeddev&color=yellow" alt="Profile views" /> </p>
 ### Não pense que é capaz. Saiba que é.
